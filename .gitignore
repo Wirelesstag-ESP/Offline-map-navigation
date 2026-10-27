@@ -1,0 +1,23 @@
+# ESP-IDF generated files
+/build/
+/build_*/
+/managed_components/
+/dependencies.lock
+/sdkconfig
+/sdkconfig.old
+
+# Generated offline map data
+/storage_data/
+
+# Python and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
